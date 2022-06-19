@@ -232,7 +232,7 @@ footer {
 }
 
 /* Mobile */
-@media (max-width: 768px) {
+@media (max-width : 933px ){
 .logo {
 	width: 100%;
 	text-align: center;
@@ -350,7 +350,7 @@ nav ul li {
 
 
 /* Small Desktops */
-@media (min-width: 768px) and (max-width: 1096px) {
+@media (min-width : 934px ) and ( max-width : 1096px ){
 .text_column {
 	width: 100%;
 }
