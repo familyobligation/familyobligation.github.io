@@ -232,14 +232,13 @@ footer {
 }
 
 /* Mobile */
-@media (max-width : 767px ){
+@media (max-width: 768px) {
 .logo {
 	width: 100%;
 	text-align: center;
-	margin-top: 10px;
 	margin-right: 0px;
-	margin-bottom: 10px;
 	margin-left: 0px;
+	margin-top: 10px;
 	color: #000000;
 	font-weight: bold;
 	font-size: 18pt;
@@ -307,7 +306,7 @@ nav ul li {
 	text-align: center;
 }
 .flyers img {
-  width: 100%;
+  width: 90%;
 }
 /* Show info */
 .show-container{
@@ -348,6 +347,7 @@ nav ul li {
 	padding-bottom: 15px;
 }
 }
+
 
 /* Small Desktops */
 @media (min-width: 768px) and (max-width: 1096px) {
