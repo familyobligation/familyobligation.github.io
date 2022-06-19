@@ -232,7 +232,7 @@ footer {
 }
 
 /* Mobile */
-@media (max-width : 1218px ){
+@media (max-width : 1000px ){
 .logo {
 	width: 100%;
 	text-align: center;
